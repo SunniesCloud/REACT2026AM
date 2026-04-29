@@ -4,3 +4,4 @@ function calculateTotalPriceJS(product, quantity, discount,)
     const discountAmount = priceWithoutDIscount * discount;
     return (priceWithoutDiscount + discountAmount);
 }
+
